@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @H4ARVERT
+- 👋 Hi There im Damian
 - 👀 I’m interested in Art/Drawing,Technology,Video Games
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently on Discord Bot and learning JavaScript and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via mail 
 
